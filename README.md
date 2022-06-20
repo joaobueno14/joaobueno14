@@ -1,4 +1,6 @@
 ### Olá! Eu sou o João Bueno 👋
 
-- 🌱 Estudando HTML, CSS e Javascript.
+-   Bando de dados SQL server
+-   C# 
+-   Estudando Python
 - 💬 contato através do e-mail: selectbueno1@gmail.com
